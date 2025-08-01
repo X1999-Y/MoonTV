@@ -11,6 +11,11 @@
       "name": "黑木耳",
       "detail": "https://heimuer.tv"
     },
+        "xiaofeng": {
+      "api": "http://cms.supertv01.com/api.php/provide/vod",
+      "name": "晓枫",
+      "detail": "http://cms.supertv01.com"
+    },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
